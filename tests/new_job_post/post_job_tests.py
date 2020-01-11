@@ -28,12 +28,12 @@ class PostJob(unittest.TestCase):
         result = self.registeration.succseefullRegistration()
         self.ts.markFinal("Valid Sign UP ", result, "Passed")
 
-    # @pytest.mark.run(order=1)
-    # def test_Login(self):
-    #     self.lp.login("test3@test.com", "Test_1234")
-
-
     @pytest.mark.run(order=2)
+    def test_Login(self):
+        self.lp.login("test15@test.com", "Test_1234")
+
+
+    @pytest.mark.run(order=3)
     @data(*getCSVData("testdata2.csv"))
     @unpack
     def test_postJob(self, jobTitle, jobDescription, jobCategory, jobSkill, day, Month, Year):
