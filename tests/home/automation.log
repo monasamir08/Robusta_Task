@@ -1,0 +1,24 @@
+01/05/2020 06:27:49 PM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: id
+01/05/2020 06:27:49 PM - SeleniumDriver - INFO: Sent data on element with locator: login locatorType: id
+01/05/2020 06:27:49 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: id
+01/05/2020 06:27:50 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+01/05/2020 06:27:50 PM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: name
+01/05/2020 06:27:50 PM - SeleniumDriver - INFO: Clicked on element with locator: login locatorType: name
+01/05/2020 06:27:50 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(), 'Login name and password must not be empty')] and  locatorType: xpath
+01/05/2020 06:27:50 PM - SeleniumDriver - INFO: Element Found
+01/05/2020 06:27:50 PM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: id
+01/05/2020 06:27:50 PM - SeleniumDriver - INFO: Sent data on element with locator: login locatorType: id
+01/05/2020 06:27:50 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: id
+01/05/2020 06:27:50 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+01/05/2020 06:27:50 PM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: name
+01/05/2020 06:27:51 PM - SeleniumDriver - INFO: Clicked on element with locator: login locatorType: name
+01/05/2020 06:27:51 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(), 'Invalid login name/password.')] and  locatorType: xpath
+01/05/2020 06:27:51 PM - SeleniumDriver - INFO: Element Found
+01/05/2020 06:27:51 PM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: id
+01/05/2020 06:27:51 PM - SeleniumDriver - INFO: Sent data on element with locator: login locatorType: id
+01/05/2020 06:27:51 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: id
+01/05/2020 06:27:52 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+01/05/2020 06:27:52 PM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: name
+01/05/2020 06:27:55 PM - SeleniumDriver - INFO: Clicked on element with locator: login locatorType: name
+01/05/2020 06:27:55 PM - SeleniumDriver - INFO: Element found with locator: logout and  locatorType: id
+01/05/2020 06:27:55 PM - SeleniumDriver - INFO: Element Found
